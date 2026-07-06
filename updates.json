@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.5.0/NexChat.Setup.1.5.0.exe",
-  "pub_date": "2026-07-06T22:28:00Z",
-  "notes": "Added native dark theme configurations and injection logic for WhatsApp and Facebook Messenger."
+  "version": "1.6.0",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.6.0/NexChat.Setup.1.6.0.exe",
+  "pub_date": "2026-07-06T22:32:00Z",
+  "notes": "Fixed background file lock issue where the app stayed running in the tray instead of shutting down during update installation."
 }
