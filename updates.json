@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.4.0/NexChat.Setup.1.4.0.exe",
-  "pub_date": "2026-07-06T22:20:00Z",
-  "notes": "Fixed background rendering issues causing black screen on tab switching, and added compositor redraw fixes."
+  "version": "1.5.0",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.5.0/NexChat.Setup.1.5.0.exe",
+  "pub_date": "2026-07-06T22:28:00Z",
+  "notes": "Added native dark theme configurations and injection logic for WhatsApp and Facebook Messenger."
 }
