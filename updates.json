@@ -1,6 +1,6 @@
 {
-  "version": "1.7.7",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.7/NexChat.Setup.1.7.7.exe",
-  "pub_date": "2026-07-09T04:10:00Z",
-  "notes": "Taskkill File Lock Fix: The installer now forcefully terminates any running NexChat.exe processes on startup, instantly clearing file locks and ensuring the update installs successfully."
+  "version": "1.7.8",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.8/NexChat.Setup.1.7.8.exe",
+  "pub_date": "2026-07-09T04:30:00Z",
+  "notes": "Silent Auto-Update Fix: The installer now runs completely silently in the background (/S flag) without showing any setup wizard window."
 }
