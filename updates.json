@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.1/NexChat.Setup.1.8.1.exe",
-  "pub_date": "2026-07-09T05:05:00Z",
-  "notes": "Test Update v1.8.1: Verifying seamless background auto-update installation."
+  "version": "1.8.2",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.2/NexChat.Setup.1.8.2.exe",
+  "pub_date": "2026-07-09T05:10:00Z",
+  "notes": "Silent Auto-Relaunch Fix: The installer now automatically relaunches NexChat upon completing the silent background installation."
 }
