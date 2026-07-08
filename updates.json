@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.2/NexChat.Setup.1.7.2.exe",
-  "pub_date": "2026-07-08T21:15:00Z",
-  "notes": "Added native right-click Context Menu (Copy, Paste, Open Link) and fixed external link popup interception inside WebViews."
+  "version": "1.7.3",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.3/NexChat.Setup.1.7.3.exe",
+  "pub_date": "2026-07-08T21:35:00Z",
+  "notes": "Bulletproofed auto-updater: Installer now launches reliably with UAC prompts via VBScript."
 }
