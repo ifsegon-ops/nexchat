@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.0/NexChat.Setup.1.7.0.exe",
-  "pub_date": "2026-07-08T21:03:00Z",
-  "notes": "Fixed critical tab switching black screen freeze issue by disabling background throttling completely across all WebViews."
+  "version": "1.7.1",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.1/NexChat.Setup.1.7.1.exe",
+  "pub_date": "2026-07-08T21:10:00Z",
+  "notes": "Critical fix: Resolved auto-updater NSIS file-lock race condition by introducing a background process delay, ensuring clean background installs without locked file errors."
 }
