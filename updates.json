@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.6.0/NexChat.Setup.1.6.0.exe",
-  "pub_date": "2026-07-06T22:32:00Z",
-  "notes": "Fixed background file lock issue where the app stayed running in the tray instead of shutting down during update installation."
+  "version": "1.7.0",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.0/NexChat.Setup.1.7.0.exe",
+  "pub_date": "2026-07-08T21:03:00Z",
+  "notes": "Fixed critical tab switching black screen freeze issue by disabling background throttling completely across all WebViews."
 }
