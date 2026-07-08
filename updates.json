@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.6/NexChat.Setup.1.7.6.exe",
-  "pub_date": "2026-07-09T04:00:00Z",
-  "notes": "Explorer Breakaway Auto-Updater Fix: Installer now launches cleanly via explorer.exe to break away from Electron's Windows Job Object, bypassing the kernel-level termination bug completely."
+  "version": "1.7.7",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.7/NexChat.Setup.1.7.7.exe",
+  "pub_date": "2026-07-09T04:10:00Z",
+  "notes": "Taskkill File Lock Fix: The installer now forcefully terminates any running NexChat.exe processes on startup, instantly clearing file locks and ensuring the update installs successfully."
 }
