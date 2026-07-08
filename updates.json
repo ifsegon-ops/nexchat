@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.0/NexChat.Setup.1.8.0.exe",
-  "pub_date": "2026-07-09T05:00:00Z",
-  "notes": "Official Fixed Release: Re-architected auto-updater logic using silent background batch execution to bypass Windows Job Object process group terminations. Also added automatic process lock release."
+  "version": "1.8.1",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.1/NexChat.Setup.1.8.1.exe",
+  "pub_date": "2026-07-09T05:05:00Z",
+  "notes": "Test Update v1.8.1: Verifying seamless background auto-update installation."
 }
