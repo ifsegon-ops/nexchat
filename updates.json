@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.5/NexChat.Setup.1.7.5.exe",
-  "pub_date": "2026-07-08T21:55:00Z",
-  "notes": "Non-Elevated Auto-Updater Fix: The installer now runs as a standard user (without requiring UAC prompts), allowing older client installations (v1.7.1/v1.7.2) to auto-update automatically and silently without getting blocked by Windows UAC security."
+  "version": "1.7.6",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.6/NexChat.Setup.1.7.6.exe",
+  "pub_date": "2026-07-09T04:00:00Z",
+  "notes": "Explorer Breakaway Auto-Updater Fix: Installer now launches cleanly via explorer.exe to break away from Electron's Windows Job Object, bypassing the kernel-level termination bug completely."
 }
