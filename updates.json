@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.4/NexChat.Setup.1.8.4.exe",
-  "pub_date": "2026-07-09T05:20:00Z",
-  "notes": "Stuck Download & Timeout Auto-Retry Fix: The updater now monitors download socket activity. If the connection hangs or stalls, it automatically times out, cleans up the partial download, and retries up to 3 times before reporting an error."
+  "version": "1.8.5",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.5/NexChat.Setup.1.8.5.exe",
+  "pub_date": "2026-07-09T05:30:00Z",
+  "notes": "Radical UI Redesign: Gradient icon cards per service, dynamic titlebar color tinting, noise texture overlay, branded floating spinner with shimmer bar, empty welcome state, spring animations, and a completely new design system."
 }
