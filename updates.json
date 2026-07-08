@@ -1,6 +1,6 @@
 {
-  "version": "1.7.8",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.8/NexChat.Setup.1.7.8.exe",
-  "pub_date": "2026-07-09T04:30:00Z",
-  "notes": "Silent Auto-Update Fix: The installer now runs completely silently in the background (/S flag) without showing any setup wizard window."
+  "version": "1.7.9",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.9/NexChat.Setup.1.7.9.exe",
+  "pub_date": "2026-07-09T04:40:00Z",
+  "notes": "Runtime Silent Installer Fix: The installer now dynamically switches to silent mode immediately upon execution. This forces background execution even when launched from older apps that do not pass command-line flags."
 }
