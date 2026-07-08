@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.3/NexChat.Setup.1.7.3.exe",
-  "pub_date": "2026-07-08T21:35:00Z",
-  "notes": "Bulletproofed auto-updater: Installer now launches reliably with UAC prompts via VBScript."
+  "version": "1.7.4",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.4/NexChat.Setup.1.7.4.exe",
+  "pub_date": "2026-07-08T21:37:00Z",
+  "notes": "Retroactive File-Lock Fix: The NSIS installer itself now contains an internal 3-second delay, allowing older bugged versions of NexChat (v1.6.0/v1.7.0) to auto-update successfully without hitting file locks."
 }
