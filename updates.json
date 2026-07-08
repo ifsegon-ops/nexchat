@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.1/NexChat.Setup.1.7.1.exe",
-  "pub_date": "2026-07-08T21:10:00Z",
-  "notes": "Critical fix: Resolved auto-updater NSIS file-lock race condition by introducing a background process delay, ensuring clean background installs without locked file errors."
+  "version": "1.7.2",
+  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.7.2/NexChat.Setup.1.7.2.exe",
+  "pub_date": "2026-07-08T21:15:00Z",
+  "notes": "Added native right-click Context Menu (Copy, Paste, Open Link) and fixed external link popup interception inside WebViews."
 }
