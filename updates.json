@@ -1,6 +1,6 @@
-{
-  "version": "1.8.5",
-  "url": "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.5/NexChat.Setup.1.8.5.exe",
-  "pub_date": "2026-07-09T05:30:00Z",
-  "notes": "Radical UI Redesign: Gradient icon cards per service, dynamic titlebar color tinting, noise texture overlay, branded floating spinner with shimmer bar, empty welcome state, spring animations, and a completely new design system."
+﻿{
+    "pub_date":  "2026-07-13T17:30:00Z",
+    "url":  "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.6/NexChat.Setup.1.8.6.exe",
+    "version":  "1.8.6",
+    "notes":  "Bugfix: Force explicit flush of all active webview sessions before quitting to prevent Discord and WhatsApp from unexpectedly logging out."
 }
