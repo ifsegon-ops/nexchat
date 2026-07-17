@@ -1,6 +1,6 @@
-﻿{
-    "pub_date":  "2026-07-13T17:30:00Z",
-    "url":  "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.6/NexChat.Setup.1.8.6.exe",
-    "version":  "1.8.6",
-    "notes":  "Bugfix: Force explicit flush of all active webview sessions before quitting to prevent Discord and WhatsApp from unexpectedly logging out."
+{
+    "pub_date":  "2026-07-17T02:00:00Z",
+    "url":  "https://github.com/ifsegon-ops/nexchat/releases/download/v1.8.7/NexChat.Setup.1.8.7.exe",
+    "version":  "1.8.7",
+    "notes":  "Obsidian Glow Overhaul: Fixed background tab session logout bug (specifically for WhatsApp/Discord background token invalidation), delays loading spinner to hide white flashes, adds custom visual alert/confirm/prompt modals replacing ugly browser boxes, sorts contiguous service headers, and applies deep visual redesign (frosted titlebars, left border indicator, count badges)."
 }
